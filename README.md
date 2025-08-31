@@ -1,4 +1,4 @@
-# Beyond-Basic-Calculator-
+# Beyond-Basic-Calculator
 A Python-based Calculator Program that performs basic arithmetic as well as determining GCF, LCM and basic statistical methods of data classification.
 
 ---
